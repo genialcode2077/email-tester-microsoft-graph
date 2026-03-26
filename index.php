@@ -329,7 +329,7 @@ $dateStamp = date('d/m/Y H:i:s');
             <!-- ── Header ── -->
             <div class="px-6 pt-6 pb-4 border-b border-gray-100">
                 <div class="flex items-center gap-3">
-                    <img src="logo.jpeg" alt="Logo" class="h-9 rounded">
+                    <img src="ubuntu-4.png" alt="Logo" class="h-9 rounded">
                     <div>
                         <h1 class="text-base font-semibold text-gray-900">Validación de envío</h1>
                         <p class="text-xs text-gray-400">Herramienta de prueba · Microsoft Graph</p>
